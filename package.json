@@ -1,0 +1,14 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "words.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
